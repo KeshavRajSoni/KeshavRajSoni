@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **KeshavRajSoni/KeshavRajSoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=50&background=FFFFFF00&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Keshav+Soni;A+passionate+Software+developer." alt="Typing SVG" /></a>
