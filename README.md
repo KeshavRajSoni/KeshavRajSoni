@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=50&background=FFFFFF00&random=false&width=435&lines=A+passionate+MERN+STACK+developer." alt="Typing SVG" /></a>
 </h3>
-<h3 align="center">A passionate MERN STACK developer from India.</h3>
+
 
 - 👨‍💻 All of my projects are available at. [www.portfolioLink.com](www.portfolioLink.com)
 
