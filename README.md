@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **keshavsonicertified@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1riCxLd6wS-wdVxCKy0KOQQGTvpY8LjWN/view)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/13ICBsy5VaPwQpoLOXppTxZLhTshOzseY/view?usp=drive_link)
 
 - ⚡ Fun fact **I never use chatGPT.**
 
